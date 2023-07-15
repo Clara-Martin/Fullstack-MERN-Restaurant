@@ -29,7 +29,7 @@ function App() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
 
         {/* 1st link - brand/home */}
-        <a href="/tables" className="navbar-brand">Restaurant Name</a>
+        <a href="/tables" className="navbar-brand">Mangoes Indian Cuisine</a>
 
         {/* remaining links */}
         <div className="navbar-nav mr-auto">
